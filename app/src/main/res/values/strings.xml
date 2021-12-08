@@ -1,0 +1,5 @@
+<resources>
+    <string name="application_name" translatable="false">SHAREfile</string>
+    <string name="main_share">Отправить</string>
+    <string name="main_receive">Принять</string>
+</resources>
